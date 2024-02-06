@@ -1,0 +1,5 @@
+---
+channels:
+  stable:
+    - name: iap
+      version: 1.0.0
